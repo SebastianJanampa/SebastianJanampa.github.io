@@ -4,7 +4,6 @@ collection: publications
 category: manuscripts
 permalink: /publication/dtlsd
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2025
 venue: Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV). 2025''
 paperurl: 'https://arxiv.org/abs/2411.13005'
 ---
