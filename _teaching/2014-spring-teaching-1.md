@@ -7,6 +7,6 @@ date: 2022-01-01
 location: "Albuquerque, USA"
 ---
 * Duties
-  *  Taught programming concepts, including functions, arrays, pointers, and programming in the Linux environment.
-  *  Combined digital image processing introductory topics with C programming.
+  *  Teach programming concepts, including functions, arrays, pointers, and programming in the Linux environment.
+  *  Combine digital image processing introductory topics with C programming.
 * Period: Jan 2022 - Dec 2023 
