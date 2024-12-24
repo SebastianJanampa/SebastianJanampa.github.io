@@ -4,16 +4,9 @@ collection: teaching
 type: "Undergraduate course"
 venue: "The University of New Mexico, Department of Electrical & Computer Engineering"
 date: 2022-01-01
-location: "City, Country"
+location: "Albuquerque, USA"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+* Duties
+  *  Taught programming concepts, including functions, arrays, pointers, and programming in the Linux environment.
+  *  Combined digital image processing introductory topics with C programming.
+* Period: Jan 2022 - Dec 2023 
