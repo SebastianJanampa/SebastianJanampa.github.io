@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant for science courses"
+title: "Teaching Assistant for Science Courses"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/utec_1
@@ -9,5 +9,5 @@ location: "Lima, Peru"
 ---
 
 * Duties
-  *  Teach Physics 1 and Mathematics 1 classes to students at academic risk.
+  *  Clear students' doubts during the exams.
 * Period: Mar 2019 - Jul 2019
