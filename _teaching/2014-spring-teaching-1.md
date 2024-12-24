@@ -1,10 +1,9 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant for ECE 131L Programming Fundamentals "
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+venue: "The University of New Mexico, Department of Electrical & Computer Engineering"
+date: 2022-01-01
 location: "City, Country"
 ---
 
