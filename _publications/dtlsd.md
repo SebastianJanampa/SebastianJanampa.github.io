@@ -1,7 +1,7 @@
 ---
 title: "[DT-LSD: Deformable Transformer-based Line Segment Detection](https://github.com/SebastianJanampa/DT-LSD)"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/dtlsd
 date: 2025-02-28
 venue: Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2025''
