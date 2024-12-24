@@ -19,12 +19,10 @@ Education
 Work experience
 ======
 * Mar. 2020 - Aug. 2020. Intern at the Lerner Research Institute - Cleveland Clinic.
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Duties: Segment magnetic resonance images of the leg using Slicer3D to identify the moment the femur hits the tibia using Python.
 
-* Jan. 2020 - Mar. 2020. Technical editor at CHECK (peruvian start-up).
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jan. 2020 - Mar. 2020. Technical editor at CHECK (Peruvian start-up).
+  * Duties: Check and create the theory and exercises of the math lessons.
   
 Skills
 ======
