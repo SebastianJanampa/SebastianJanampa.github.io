@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 2"
+title: "Mentor for Physics 1 and Mathematics 1"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Universidad de Ingenieria y Tecnologia, Department of Student Wellness"
+date: 2018-03-01
+location: "Lima, Peru"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+* Duties
+  *  Taught Physics 1 and Mathematics 1 classes to students in academic risk.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
