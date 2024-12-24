@@ -52,9 +52,9 @@ Talks
   
 Teaching & Mentoring
 ======
-* Jan. 2022 - Dec. 2023. Teaching assistant for ECE 131L: Programming Fundamentals, UNM.
-* Apr. 2018 - May 2020. Mentor for students under academic risk in first-year science courses, UTEC.
-* Mar. 2019 - Jul. 2019. Teaching assistant on science courses, UTEC.
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
 Honors
 ======
