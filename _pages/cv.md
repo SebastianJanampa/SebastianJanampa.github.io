@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
-====
+======
 * PhD of Science, Computer Engineering. The University of New Mexico (USA). 2023 - present
 * Master of Science, Computer Engineering. The University of New Mexico (USA). 2021 - 2023
 * Bachelor of Science, Bioengineering. Universidad de Ingenieria y Tecnologia (Peru). 2017 - 2021
