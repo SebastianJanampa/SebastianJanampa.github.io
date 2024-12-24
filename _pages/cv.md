@@ -13,6 +13,7 @@ Education
 ======
 * PhD of Science, Computer Engineering. The University of New Mexico (USA). 2023 - present
 * Master of Science, Computer Engineering. The University of New Mexico (USA). 2021 - 2023
+* Exchange Program, Concentration in Electrical Engineering. Instituto Tecnologico de Buenos Aires. 2021
 * Bachelor of Science, Bioengineering. Universidad de Ingenieria y Tecnologia (Peru). 2017 - 2021
 
 Work experience
