@@ -21,7 +21,7 @@ repository               : "SebastianJanampa/SebastianJanampa.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_pic.png"
+  avatar           : "profile_pic.jpg"
   name             : "Sebastian Janampa"
   pronouns         : # example: "she/her"  
   bio              : "PhD student @ The University of New Mexico"
