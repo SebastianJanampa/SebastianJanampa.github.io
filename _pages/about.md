@@ -1,13 +1,17 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Hi everyone,
+
+My name is Sebastian Janampa. I am a PhD student at the University of New Mexico (UNM), where [Dr. Marios Pattichis](https://scholar.google.com/citations?user=QjpKRaAAAAAJ&hl) supervises me. My research consists of reconstructing the 3D position of a specific group of students with respect to a reference from classroom videos. In addition to that, I am deeply passionate about transformers and their multiple applications, such as object detection, line segment detection, 2D and 3D human keypoints estimation, and camera calibration. My academic hobbies are reading recent published papers and reading their open-source code. 
+
+Apart from school, I love swimming, a sport that taught me a lot about discipline, consistency, self-judgment, and fair competition. I also enjoy dancing salsa (a Latin dance), which helped me develop my social skills and avoid nervousness. I am also interested in male fashion because it is interesting how what we wear the first time we meet a person leaves a big impression of who we are. 
 
 A data-driven personal website
 ======
