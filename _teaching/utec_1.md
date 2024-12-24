@@ -9,5 +9,5 @@ location: "Lima, Peru"
 ---
 
 * Duties
-  *  Taught Physics 1 and Mathematics 1 classes to students in academic risk.
+  *  Teach Physics 1 and Mathematics 1 classes to students at academic risk.
 * Period: Mar 2019 - Jul 2019
