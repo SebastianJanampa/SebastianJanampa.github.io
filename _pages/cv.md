@@ -27,16 +27,8 @@ Work experience
   
 Skills
 ======
-* Python
-  * Pytorch
-  * Tensorflow
-  * Keras
-  * OpenCV
-* Matlab
-* C
-* Languages:
-  * Spanish
-  * English 
+* Programming languages: Python (Pytorch, TensorFlow, Keras, OpenCV), MATLAB, C.
+* Languages: Spanish and English 
 
 Publications
 ======
