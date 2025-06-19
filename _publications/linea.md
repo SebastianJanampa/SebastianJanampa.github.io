@@ -5,6 +5,7 @@ category: conferences
 permalink: /publication/linea
 date: 2025-10-13
 venue: 'IEEE International Conference on Image Processing 2025'
+paperurl: 'https://arxiv.org/abs/2505.16264'
 ---
 Line detection is a basic digital image processing operation used by higher-level processing methods. 
 Recently, transformer-based methods for line detection have proven to be more accurate than methods based on CNNs, at the expense of significantly lower inference speeds. 
